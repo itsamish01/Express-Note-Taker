@@ -11,3 +11,5 @@ Note taker allows users to write out day-to-day plans that allows individuals to
 
 
 ## Screenshot<img width="1171" alt="Screen Shot 2023-01-07 at 11 41 54 AM" src="https://user-images.githubusercontent.com/114682284/211163596-dc3d8b16-c4a6-48bf-acf6-f2c80c846193.png">
+
+<img width="1116" alt="Screen Shot 2023-01-07 at 11 46 37 AM" src="https://user-images.githubusercontent.com/114682284/211163731-a6aee49a-b108-4e08-b729-5a1789034440.png">
